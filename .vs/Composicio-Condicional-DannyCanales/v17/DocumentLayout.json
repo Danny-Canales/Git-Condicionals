@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F6B8E-0A6B-4515-928A-CDAD6E30D0D0}|ExerciciExtra\\ExerciciExtra.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\exerciciextra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F6B8E-0A6B-4515-928A-CDAD6E30D0D0}|ExerciciExtra\\ExerciciExtra.csproj|solutionrelative:exerciciextra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BFAE7CE-7252-45E1-B516-020DB928350D}|Problema-16.0\\Problema-16.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-16.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BFAE7CE-7252-45E1-B516-020DB928350D}|Problema-16.0\\Problema-16.0.csproj|solutionrelative:problema-16.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826F4AA3-811C-4D1E-8837-EDDC1993E284}|Problema-10.0\\Problema-10.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-10.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826F4AA3-811C-4D1E-8837-EDDC1993E284}|Problema-10.0\\Problema-10.0.csproj|solutionrelative:problema-10.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBCF4D0A-BA5D-4F4A-9A81-CC19211D97E2}|Problema-15.0\\Problema-15.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-15.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBCF4D0A-BA5D-4F4A-9A81-CC19211D97E2}|Problema-15.0\\Problema-15.0.csproj|solutionrelative:problema-15.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245EA638-0BB2-46EF-9790-2C628C385798}|Problema-14.0\\Problema-14.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-14.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245EA638-0BB2-46EF-9790-2C628C385798}|Problema-14.0\\Problema-14.0.csproj|solutionrelative:problema-14.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB150E4-7CB9-4C3C-A501-1CC30450F8A1}|Problema-13.0\\Problema-13.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-13.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EB150E4-7CB9-4C3C-A501-1CC30450F8A1}|Problema-13.0\\Problema-13.0.csproj|solutionrelative:problema-13.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D0024-388C-4564-9494-AE49A3CCA43B}|Problema-12.0\\Problema-12.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-12.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D0024-388C-4564-9494-AE49A3CCA43B}|Problema-12.0\\Problema-12.0.csproj|solutionrelative:problema-12.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F52244A-48E9-435B-9D2A-F7CC168B7D3C}|Problema-11.0\\Problema-11.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-11.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F52244A-48E9-435B-9D2A-F7CC168B7D3C}|Problema-11.0\\Problema-11.0.csproj|solutionrelative:problema-11.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720EFBE8-88CF-4426-9669-B9B8C5C8BC15}|Problema-9.0\\Problema-9.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-9.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720EFBE8-88CF-4426-9669-B9B8C5C8BC15}|Problema-9.0\\Problema-9.0.csproj|solutionrelative:problema-9.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20AC594-6A22-4D8C-B409-1886BB9410BF}|Problema-8.0\\Problema-8.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-8.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20AC594-6A22-4D8C-B409-1886BB9410BF}|Problema-8.0\\Problema-8.0.csproj|solutionrelative:problema-8.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2823F41-E880-42EC-B44A-7FDDB574CC76}|Problema-7.0\\Problema-7.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-7.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2823F41-E880-42EC-B44A-7FDDB574CC76}|Problema-7.0\\Problema-7.0.csproj|solutionrelative:problema-7.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14448F2B-8470-48D5-B92A-D8C91CF9D9CE}|Problema-6.0\\Problema-6.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-6.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14448F2B-8470-48D5-B92A-D8C91CF9D9CE}|Problema-6.0\\Problema-6.0.csproj|solutionrelative:problema-6.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63163DA5-873F-41DC-B702-14745AA01AC1}|Problema-5.0\\Problema-5.0.csproj|c:\\users\\danic\\source\\repos\\composicio-condicional-dannycanales\\problema-5.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63163DA5-873F-41DC-B702-14745AA01AC1}|Problema-5.0\\Problema-5.0.csproj|solutionrelative:problema-5.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\ExerciciExtra\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciExtra\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\ExerciciExtra\\Program.cs",
+              "RelativeToolTip": "ExerciciExtra\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:59:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-16.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-16.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-16.0\\Program.cs",
+              "RelativeToolTip": "Problema-16.0\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:59:22.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-15.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-15.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-15.0\\Program.cs",
+              "RelativeToolTip": "Problema-15.0\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:58:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-14.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-14.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-14.0\\Program.cs",
+              "RelativeToolTip": "Problema-14.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:58:33.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-13.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-13.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-13.0\\Program.cs",
+              "RelativeToolTip": "Problema-13.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:58:11.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-12.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-12.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-12.0\\Program.cs",
+              "RelativeToolTip": "Problema-12.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:57:51.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-11.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-11.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-11.0\\Program.cs",
+              "RelativeToolTip": "Problema-11.0\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:57:29.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-10.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-10.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-10.0\\Program.cs",
+              "RelativeToolTip": "Problema-10.0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:57:08.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-9.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-9.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-9.0\\Program.cs",
+              "RelativeToolTip": "Problema-9.0\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:56:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-8.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-8.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-8.0\\Program.cs",
+              "RelativeToolTip": "Problema-8.0\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:56:19.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-7.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-7.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-7.0\\Program.cs",
+              "RelativeToolTip": "Problema-7.0\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:55:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-6.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-6.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-6.0\\Program.cs",
+              "RelativeToolTip": "Problema-6.0\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:55:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-5.0\\Program.cs",
+              "RelativeDocumentMoniker": "Problema-5.0\\Program.cs",
+              "ToolTip": "C:\\Users\\danic\\source\\repos\\Composicio-Condicional-DannyCanales\\Problema-5.0\\Program.cs",
+              "RelativeToolTip": "Problema-5.0\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:54:58.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
